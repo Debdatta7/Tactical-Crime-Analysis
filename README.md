@@ -60,11 +60,10 @@ Key measures created include:
 - Previous Month, MoM, YoY comparisons
 
 
-📊 Dashboard Pages
+# 📊 Dashboard Pages
 📍 Page 1 — Crime Overview
-![image]()
 
-
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/2.JPG)
 
 ⏱ Page 2 — Temporal Analysis
 
