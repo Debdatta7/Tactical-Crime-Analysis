@@ -67,7 +67,7 @@ Key measures created include:
 
 ⏱ Page 2 — Temporal Analysis
 
-
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/5.JPG)
 
 
 🗺 Page 3 — Crime Hotspot Analysis (Azure Map)
