@@ -71,68 +71,22 @@ Key measures created include:
 📊 Dashboard Pages
 📍 Page 1 — Crime Overview
 
-Provides a high-level summary of crime volume, resolution status, and trends.
-Includes drill-through to view crime types.
+
 
 
 ⏱ Page 2 — Temporal Analysis
 
-Analyses crime distribution by:
 
-Hour of the day
-
-Day of the week
-
-Monthly and seasonal patterns
 
 
 🗺 Page 3 — Crime Hotspot Analysis (Azure Map)
 
-Identifies spatial crime clusters
 
-Visualizes geographical hotspots based on grouped zones
 
 
 🧑‍🤝‍🧑 Page 4 — Victim & Offender Analysis
 
-Age and gender breakdown
 
-Role-based crime involvement
-
-High-risk demographic groups
-
-
-📝 Key Findings
-1. Crime Types
-
-Violence & sexual offences are highest
-
-Violent crimes show lower resolution rates compared to property crimes
-
-
-2. Time-Based Patterns
-
-Crimes peak between 9 PM – 2:45 AM
-
-Lowest activity between 9 AM – 11:45 AM
-
-Weekdays show higher crime activity
-
-Seasonal spikes during summer months
-
-
-3. Hotspot Analysis
-
-A small number of zones contribute to most crimes
-
-Hotspot patterns remain consistent across months
-
-
-4. Demographics
-
-Offenders mostly males aged 46–59
-
-Victim profiles vary significantly across crime types
 
 
 🚀 Conclusion
