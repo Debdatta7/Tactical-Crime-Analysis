@@ -42,9 +42,7 @@ CALENDAR ( MIN(Crimes[Crime Date]), MAX(Crimes[Crime Date]) )
 
 Step 2 — Data Modelling
 
-1. Built a star schema using fact and dimension tables
-2. Connected Calendar, Crime Types, People, and Roles into the model
-
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/1.JPG)
 
 Step 3 — DAX Measures
 
@@ -75,10 +73,10 @@ Key measures created include:
 
 🧑‍🤝‍🧑 Page 4 — Victim & Offender Analysis
 
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/7.JPG)
 
 
-
-🚀 Conclusion
+# 🚀 Conclusion
 
 This tactical crime analysis dashboard empowers agencies with data-driven insights into crime behaviour, hotspots, timelines, and demographic profiles.
 It enables faster decision-making, resource allocation, and operational planning.
