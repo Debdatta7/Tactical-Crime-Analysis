@@ -3,16 +3,8 @@
 A comprehensive Power BI project designed to analyse crime patterns, identify hotspots, study offender–victim behaviour, and assist law-enforcement decision-making.
 This dashboard converts raw crime data into actionable insights for operational and tactical policing.
 
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/Screenshot%20(100).png)
 ## 📌 Problem Statement
-
-Law enforcement agencies often struggle with:
-
-* Identifying crime hotspots across the city
-* Understanding peak crime timings (hour/day/month)
-* Analysing crime types and spatial distribution
-* Studying victim and offender demographics
-* Tracking resolution performance and case outcomes
-* Due to raw and unstructured crime data, agencies lack an integrated system to generate meaningful insights.
 
 # 🎯 Project Objectives
 
@@ -70,7 +62,7 @@ Key measures created include:
 
 📊 Dashboard Pages
 📍 Page 1 — Crime Overview
-
+![image]()
 
 
 
