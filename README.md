@@ -69,11 +69,9 @@ Key measures created include:
 
 ![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/5.JPG)
 
-
 🗺 Page 3 — Crime Hotspot Analysis (Azure Map)
 
-
-
+![image](https://github.com/Debdatta7/Tactical-Crime-Analysis/blob/main/6.JPG)
 
 🧑‍🤝‍🧑 Page 4 — Victim & Offender Analysis
 
